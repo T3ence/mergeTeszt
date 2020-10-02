@@ -2,7 +2,7 @@
 
 ## 1. Összefoglaló 
 
-macska, cica
+nagymacska, cica
 
 ## 2. Verziók
 
