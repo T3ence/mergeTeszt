@@ -6,9 +6,7 @@ macska
 
 ## 2. Verziók
 
-`Mint ahogy maga az alkalmazás, úgy a Projektterv is folyamatosan változik a félév során, ezeket a főbb változtatásokat itt kell vezetni.
-Általánosságban elmondható, hogy mérföldkövenként legalább 3 fő verziót érdemes megjelölni (Tervezet-Előterjesztés-Elfogadott).
-A verzió számozásának következetesnek kell lennie. A szerzőknél azoknak a nevét kell felsorolni, akik hozzájárultak a fő verzióhoz (azaz nem feltétlen mindenki, aki módosította a dokumentumot, pl. átírt egy elírást). ` 
+kutya
 
 
 | Verzió |        Szerző(k)        |    Dátum     |     Státusz     |                     Megjegyzés                      |
